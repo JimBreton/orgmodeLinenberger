@@ -1,0 +1,11 @@
+* This file should go to ~/org/tasks.org
+* Tasks
+** TODO [#A] Task Critical now (if scheduled for today or earlier)
+   SCHEDULED: <2016-08-18 Thu>
+   [2016-08-18 Thu]
+** TODO [#B] Task one Target now (if scheduled for today) opportunity now if scheduled in the past
+   SCHEDULED: <2016-08-18 Thu>
+   [2016-08-18 Thu]
+** TODO :SOC:   Significant outcome no. 1 (if scheduled for today or earlier)
+   SCHEDULED: <2016-08-18 Thu>  
+   [2016-08-18 Thu]
