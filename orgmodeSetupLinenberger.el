@@ -84,7 +84,7 @@
 		(org-agenda-skip-entry-if (quote notregexp) "\\=.*\\[#A\\]")))
                (org-agenda-ndays 1)
                (org-agenda-sorting-strategy (quote (scheduled-down)))))
-;;; for Critical Now we select priority = [#B] which is found by looking for a regular expression
+;;; For Opportunity Now we select priority = [#B] which is found by looking for a regular expression
 ;;;; we have org-agenda-ndays 1 which means it will look only for current day and before
 ;;; ordering is scheduled down and then todo state up  
 ;;; Target now contains items which are scheduled for today
